@@ -2,5 +2,7 @@
   "name": "Local Chat",
   "app_id": "com.local.chat",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
