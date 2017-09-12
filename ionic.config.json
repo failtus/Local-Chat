@@ -1,5 +1,6 @@
 {
-  "name": "firebase-auth",
-  "app_id": "",
-  "type": "ionic-angular"
+  "name": "Local Chat",
+  "app_id": "com.local.chat",
+  "type": "ionic-angular",
+  "integrations": {}
 }

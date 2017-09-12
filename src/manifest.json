@@ -1,6 +1,6 @@
 {
-  "name": "Ionic",
-  "short_name": "Ionic",
+  "name": "Local Chat",
+  "short_name": "com.local.chat",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [{
